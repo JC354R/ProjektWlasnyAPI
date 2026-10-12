@@ -1,0 +1,23 @@
+[
+    {
+      "tytul": "tian guan shi fu",
+      "autor": "mo xiang tong xiu",
+      "gatunek": "romans",
+      "kategoriaWiekowa": "16",
+      "rokWydania" : "1897"
+    },
+    {
+      "tytul": "Dracula",
+      "autor": "Bram stroker",
+      "gatunek": "thriller",
+      "kategoriaWiekowa": "18",
+      "rokWydania" : "2021"
+    },
+    {
+      "tytul": "Makbet",
+      "autor": "William Shakespeare",
+      "gatunek": "romans",
+      "kategoriaWiekowa": "13",
+      "rokWydania" : "1879"
+    }
+]
