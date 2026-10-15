@@ -19,5 +19,47 @@
       "gatunek": "romans",
       "kategoriaWiekowa": "13",
       "rokWydania" : "1879"
+    },
+    {
+      "tytul": "1984",
+      "autor": "Jor jor well",
+      "gatunek": "romans",
+      "kategoriaWiekowa": "8",
+      "rokWydania" : "1949"
+    },
+    {
+      "tytul": "Zbrodnia Ikara",
+      "autor": "Fiucior Dostojnicki",
+      "gatunek": "psychologiczna",
+      "kategoriaWiekowa": "dla wszystkich",
+      "rokWydania" : "1866"
+    },
+    {
+      "tytul": "Raj utracony",
+      "autor": "Millton John",
+      "gatunek": "Filozofia",
+      "kategoriaWiekowa": "16",
+      "rokWydania" : "1667"
+    },
+    {
+      "tytul": "Portret Doriana Graya",
+      "autor": "Wilde Oscar",
+      "gatunek": "Thriller",
+      "kategoriaWiekowa": "17",
+      "rokWydania" : "1890"
+    },
+    {
+      "tytul": "Psychoza",
+      "autor": "Robert Bloch",
+      "gatunek": "Horror",
+      "kategoriaWiekowa": "18",
+      "rokWydania" : "1959"
+    },
+    {
+      "tytul": "Necronomicon",
+      "autor": "Nieznany",
+      "gatunek": "Czarna magia",
+      "kategoriaWiekowa": "18",
+      "rokWydania" : "730"
     }
 ]
