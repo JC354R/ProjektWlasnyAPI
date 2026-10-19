@@ -1,5 +1,6 @@
 [
     {
+      "okladka": "https://m.media-amazon.com/images/I/91XkwAUMy8L.jpg",
       "tytul": "tian guan shi fu",
       "autor": "mo xiang tong xiu",
       "gatunek": "romans",
@@ -7,6 +8,7 @@
       "rokWydania" : "1897"
     },
     {
+      "okladka": "https://npr.brightspotcdn.com/dims4/default/b95f426/2147483647/strip/true/crop/314x500+0+0/resize/1760x2802!/format/webp/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Flegacy%2Fsites%2Fwkar%2Ffiles%2Fdracula_book_cover.jpg",
       "tytul": "Dracula",
       "autor": "Bram stroker",
       "gatunek": "thriller",
@@ -14,6 +16,7 @@
       "rokWydania" : "2021"
     },
     {
+      "okladka" : "https://cdn.swiatksiazki.pl/media/catalog/product/5/4/5499900610554-6.jpg?width=650&height=650&store=default&image-type=small_image",
       "tytul": "Makbet",
       "autor": "William Shakespeare",
       "gatunek": "romans",
@@ -21,6 +24,7 @@
       "rokWydania" : "1879"
     },
     {
+      "okladka": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTvDGdj-NX_hW6D1hUB3eq-yrn2xJxKRS2AciVM5GIOQ&s=10",
       "tytul": "1984",
       "autor": "Jor jor well",
       "gatunek": "romans",
@@ -28,6 +32,7 @@
       "rokWydania" : "1949"
     },
     {
+      "okladka": "https://cdn.swiatksiazki.pl/media/catalog/product/4/2/4299906936642.jpg?width=650&height=650&store=default&image-type=small_image",
       "tytul": "Zbrodnia Ikara",
       "autor": "Fiucior Dostojnicki",
       "gatunek": "psychologiczna",
@@ -35,6 +40,7 @@
       "rokWydania" : "1866"
     },
     {
+      "okladka": "https://bigimg.taniaksiazka.pl/images/popups/312/9788311183148.jpg",
       "tytul": "Raj utracony",
       "autor": "Millton John",
       "gatunek": "Filozofia",
@@ -42,6 +48,7 @@
       "rokWydania" : "1667"
     },
     {
+      "okladka": "https://vesper.pl/118-default_xl/portret-doriana-graya.jpg",
       "tytul": "Portret Doriana Graya",
       "autor": "Wilde Oscar",
       "gatunek": "Thriller",
@@ -49,6 +56,7 @@
       "rokWydania" : "1890"
     },
     {
+      "okladka": "https://img.tantis.pl/image/1ee14190-b1b9-4899-a350-44b78dd74325/1024x768/webp",  
       "tytul": "Psychoza",
       "autor": "Robert Bloch",
       "gatunek": "Horror",
@@ -56,6 +64,7 @@
       "rokWydania" : "1959"
     },
     {
+      "okladka": "https://cf-tk.statiki.pl/images/large/4D0/9788379982776.webp",  
       "tytul": "Necronomicon",
       "autor": "Nieznany",
       "gatunek": "Czarna magia",
